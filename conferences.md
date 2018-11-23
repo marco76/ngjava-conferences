@@ -5,7 +5,7 @@
 |Uphill Conf|https://uphillconf.com/|2019-05-02|2019-05-03|Bern|Switzerland|ch||
 |J On The Beach|https://jonthebeach.com/|2019-05-23|2019-05-25|Malaga|Spain|es||
 |Voxxed Days|https://voxxeddays.com/zurich/|2019-03-19|2019-03-19|Zürich|Switzerland|ch|2018-04-12|
-|JAX|https://jax.de/2019-05-06|2019-05-10|Mainz|Germany|de||
+|JAX|https://jax.de/|2019-05-06|2019-05-10|Mainz|Germany|de||
 |Devoxx UK|https://www.devoxx.co.uk/|2019-05-08|2019-05-10|London|England|uk|2019-01-11|
 |AngularConnect|https://angularconnect.com/|2019-09-19|2019-09-20|London|England|uk||
 |ng conf|https://www.ng-conf.org|2019-05-01|2019-05-03|Salt Lake City|USA|us|2019-01-03|
