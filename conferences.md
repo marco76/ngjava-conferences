@@ -1,7 +1,7 @@
 # Dev conferences
 
 |Name|Website|Begin|End|City|Country|ISO_Country|CFP|
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 |Uphill Conf|https://uphillconf.com/|2019-05-02|2019-05-03|Bern|Switzerland|ch||
 |J On The Beach|https://jonthebeach.com/|2019-05-23|2019-05-25|Malaga|Spain|es||
 |Voxxed Days|https://voxxeddays.com/zurich/|2019-03-19|2019-03-19|Zürich|Switzerland|ch|2018-04-12|
