@@ -12,7 +12,7 @@
 |JPrime|https://jprime.io/|2019-05-28|2019-05-29|Sofia|Bulgaria|bg|2019-02-15|
 |Riga Dev Days|https://rigadevdays.lv/|2019-05-29|2019-05-31|Riga|Latvia|lv|2018-12-10|
 |J-Spring|https://jspring.nl/|2019-05-29|2019-05-29|Utrecht|Netherlands|nl||
-|Devoxx PL|http://devoxx.pl/|2019-06-24|2019-06-29|Warsaw|Poland|pl||
+|Devoxx PL|http://devoxx.pl/|2019-06-24|2019-06-29|Krakow|Poland|pl||
 |QCon|https://qconlondon.com/|2019-03-04|2019-03-08|London|England|gb||
 |Javaland|https://www.javaland.eu/en/home/|2019-03-19|2019-03-21|Bruehl|Germany|de||
 |JavaDay|https://javaday.istanbul/|2019-03-16|2019-03-16|Istanbul|Turkey|tr||
